@@ -1,3 +1,5 @@
+**Current Version:** v1.0
+
 # Resume Skill Matcher (MySQL)
 
 Resume Skill Matcher is a Python-based command-line application that evaluates
