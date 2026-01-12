@@ -1,0 +1,34 @@
+Job Title: Python Developer Intern
+
+Job Description:
+
+We are looking for a Python Developer Intern who is interested in building
+data-driven and automation-based applications.
+
+Requirements:
+
+Strong understanding of Python programming
+
+Experience with SQL and relational databases (MySQL preferred)
+
+Familiarity with Git and version control systems
+
+Basic knowledge of data analysis using Pandas and NumPy
+
+Understanding of file handling and object-oriented programming concepts
+
+Responsibilities:
+
+Develop Python scripts and small tools for data processing
+
+Work with databases to store and retrieve structured data
+
+Analyze text or document-based data and generate reports
+
+Collaborate with team members using Git
+
+Preferred Skills:
+
+Experience with Matplotlib for data visualization
+
+Basic understanding of software development best practices
